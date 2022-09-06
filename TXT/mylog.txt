@@ -6,5 +6,6 @@ ZCZC W00 10 L03 GitHub repository initialization
 ZCZC W00 5 L04 Initialize GitHub pages
 ZCZC W00 100 L02 30/08 class
 ZCZC W00 100 L02 01/09 class
+ZCZC W00 5 L10 Quiz 1
 ZCZC W00 30 L31 Set up virt-manager
 ZCZC W01 100 L31 Initial set up for Debian
