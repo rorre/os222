@@ -18,4 +18,4 @@ ZCZC W01 30 L27 Set up new key
 ZCZC W01 60 L23 Configuring bash profile for various tools
 ZCZC W01 60 L06 Browsing through various linux articles
 ZCZC W01 60 L06 Watching videos about linux ricing
-
+ZCZC W01 20 L04 Set up index, links
