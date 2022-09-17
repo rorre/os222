@@ -19,3 +19,14 @@ ZCZC W01 60 L23 Configuring bash profile for various tools
 ZCZC W01 60 L06 Browsing through various linux articles
 ZCZC W01 60 L06 Watching videos about linux ricing
 ZCZC W01 20 L04 Set up index, links
+ZCZC W02 100 L02 13/09 class
+ZCZC W02 100 L02 15/09 class
+ZCZC W02 60 L12 Doing weekly assignment
+ZCZC W02 20 L26 Trying GPG
+ZCZC W02 80 L06 Looking through other LINKS
+ZCZC W02 5 L12 Quiz 3
+ZCZC W02 45 L24 Learning scripting with bash
+ZCZC W02 60 L22 Learning how environment works
+ZCZC W02 100 L21 Trying rclone and learn how to sync with google drive
+ZCZC W02 90 L24 Creating script to make automatic backups
+ZCZC W02 15 L22 Learning how to make cron job 
