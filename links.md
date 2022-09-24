@@ -11,3 +11,8 @@ permalink: LINKS/
 3. [Interactive Vim Tutorial](https://www.openvim.com/)<br>As the name suggests, it is an interactive vim tutorial. Pretty easy to follow to get started with vim.
 
 4. [GNU Awk User Guide](https://www.gnu.org/software/gawk/manual/gawk.html)<br>Everything you need to know about GNU Awk (gawk). Good read if you are not used to reading man yet.
+
+5. [RSA Algorithm in Cryptography](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/)<br>A quick overview of RSA algorithm, the same algorithm that we use when we generate key in SSH.
+
+6. [Arch Wiki -- File Systems](https://wiki.archlinux.org/title/file_systems)<br>A good wiki to learn quick overview about various file systems.
+

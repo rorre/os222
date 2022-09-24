@@ -30,3 +30,12 @@ ZCZC W02 60 L22 Learning how environment works
 ZCZC W02 100 L21 Trying rclone and learn how to sync with google drive
 ZCZC W02 90 L24 Creating script to make automatic backups
 ZCZC W02 15 L22 Learning how to make cron job 
+ZCZC W03 100 L02 Zoom meet class
+ZCZC W03 120 L02 Offline class
+ZCZC W03 100 L03 Reading book and various referenes
+ZCZC W03 60 L13 Doing hard disk assignment
+ZCZC W03 30 L13 Finishing assignment
+ZCZC W03 50 L23 Experimenting with sed and regex
+ZCZC W03 70 L32 Watching linux related videos
+ZCZC W03 20 L08 Research on file systems
+ZCZC W03 40 L06 Reviewing friends LINKS
