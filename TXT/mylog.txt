@@ -10,7 +10,7 @@ ZCZC W00 5 L10 Quiz 1
 ZCZC W00 30 L31 Set up virt-manager
 ZCZC W01 100 L31 Initial set up for Debian
 ZCZC W01 30 L22 Set up Lunarvim and lazygit
-ZCZC WO1 10 L03 Set up links
+ZCZC W01 10 L03 Set up links
 ZCZC W01 100 L02 06/09 class
 ZCZC W01 100 L02 08/09 class
 ZCZC W01 5 L11 Quiz 2
