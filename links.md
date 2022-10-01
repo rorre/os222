@@ -16,3 +16,7 @@ permalink: LINKS/
 
 6. [Arch Wiki -- File Systems](https://wiki.archlinux.org/title/file_systems)<br>A good wiki to learn quick overview about various file systems.
 
+7. [All about Linux swap space](https://www.linux.com/news/all-about-linux-swap-space/)<br>A nice, quick overview of what swapping is in Linux.
+
+8. [The Linux Kernel documentation](https://docs.kernel.org/)<br>While it is pretty intimidating at first, the documentation could come in handy when you are doing LFS.
+

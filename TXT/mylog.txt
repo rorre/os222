@@ -39,3 +39,12 @@ ZCZC W03 50 L23 Experimenting with sed and regex
 ZCZC W03 70 L32 Watching linux related videos
 ZCZC W03 20 L08 Research on file systems
 ZCZC W03 40 L06 Reviewing friends LINKS
+ZCZC W04 100 L02 Zoom class
+ZCZC W04 120 L02 Offline class
+ZCZC W04 30 L14 Doing compile assignment
+ZCZC W04 45 L05 Trying pop quiz
+ZCZC W04 30 L06 Review friends LINKS
+ZCZC W04 80 L23 Trying to script with bash
+ZCZC W04 120 L03 Reading various memory resources
+ZCZC W04 60 L64 Helping friend with errors
+ZCZC W04 70 L25 Learning C
