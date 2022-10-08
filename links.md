@@ -20,3 +20,6 @@ permalink: LINKS/
 
 8. [The Linux Kernel documentation](https://docs.kernel.org/)<br>While it is pretty intimidating at first, the documentation could come in handy when you are doing LFS.
 
+9. [Understanding Linux File Permissions](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-understanding-linux-file-permissions)>br>A nice read to know how linux handles permissions, as it is quite different from Windows.
+
+10. [HowToUpgradeKernel](https://wiki.debian.org/HowToUpgradeKernel)<br>Debian's official wiki on how to upgrade kernel.

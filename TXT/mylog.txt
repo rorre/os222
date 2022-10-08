@@ -48,3 +48,13 @@ ZCZC W04 80 L23 Trying to script with bash
 ZCZC W04 120 L03 Reading various memory resources
 ZCZC W04 60 L64 Helping friend with errors
 ZCZC W04 70 L25 Learning C
+ZCZC W05 100 L02 Zoom class
+ZCZC W05 120 L02 Offline class
+ZCZC W05 30 L15 Doing memory assignment
+ZCZC W05 40 L15 Doing weekly assignment
+ZCZC W05 30 L05 Studying and quiz 2
+ZCZC W05 20 L05 Studying and quiz 1
+ZCZC W05 30 L06 Reviewing friends LINKS
+ZCZC W05 60 L64 Helping friend with their VM
+ZCZC W05 60 L32 Watching OS security related videos
+ZCZC W05 80 L23 Scripting for validating weekly assignment
