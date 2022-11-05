@@ -23,3 +23,7 @@ permalink: LINKS/
 9. [Understanding Linux File Permissions](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-understanding-linux-file-permissions)>br>A nice read to know how linux handles permissions, as it is quite different from Windows.
 
 10. [HowToUpgradeKernel](https://wiki.debian.org/HowToUpgradeKernel)<br>Debian's official wiki on how to upgrade kernel.
+
+11. [fork() in C - GeeksforGeeks](https://www.geeksforgeeks.org/fork-system-call/)<br>A nice overview of `fork()` in C language.
+
+12. [Process vs Threads in Linux](https://linuxhint.com/process-vs-thread-linux/)<br>Thread plus process and their difference in one article.

@@ -58,3 +58,12 @@ ZCZC W05 30 L06 Reviewing friends LINKS
 ZCZC W05 60 L64 Helping friend with their VM
 ZCZC W05 60 L32 Watching OS security related videos
 ZCZC W05 80 L23 Scripting for validating weekly assignment
+ZCZC W06 120 L02 Offline class tuesday
+ZCZC W06 120 L02 Offline class thursday
+ZCZC W06 30 L16 Doing weekly assignment
+ZCZC W06 60 L31 Updating guest machine
+ZCZC W06 40 L05 Learning for quiz 2
+ZCZC W06 30 L05 Learning for quiz 1
+ZCZC W06 30 L07 Trying out demos
+ZCZC W06 60 L32 Watching linux related videos about threading
+ZCZC W06 30 L06 Reviewing other LINKS
