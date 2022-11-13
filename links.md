@@ -27,3 +27,5 @@ permalink: LINKS/
 11. [fork() in C - GeeksforGeeks](https://www.geeksforgeeks.org/fork-system-call/)<br>A nice overview of `fork()` in C language.
 
 12. [Process vs Threads in Linux](https://linuxhint.com/process-vs-thread-linux/)<br>Thread plus process and their difference in one article.
+
+13. [POSIX Threads](https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html)<br>Good writeup regarding POSIX thread (pthread) and overview.

@@ -67,3 +67,11 @@ ZCZC W06 30 L05 Learning for quiz 1
 ZCZC W06 30 L07 Trying out demos
 ZCZC W06 60 L32 Watching linux related videos about threading
 ZCZC W06 30 L06 Reviewing other LINKS
+ZCZC W07 120 L02 Offline class tuesday
+ZCZC W07 120 L02 Offline class thursday
+ZCZC W07 45 L17 W07 assignment
+ZCZC W07 20 L05 Studying for quiz
+ZCZC W07 60 L07 Trying thread demos
+ZCZC W07 30 L32 Watching linux videos
+ZCZC W07 50 L64 Helping friend with their linux VM
+ZCZC W07 45 L06 Reviewing LINKS and reading
