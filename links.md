@@ -29,3 +29,5 @@ permalink: LINKS/
 12. [Process vs Threads in Linux](https://linuxhint.com/process-vs-thread-linux/)<br>Thread plus process and their difference in one article.
 
 13. [POSIX Threads](https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html)<br>Good writeup regarding POSIX thread (pthread) and overview.
+
+14. [LFS Stable Book](https://www.linuxfromscratch.org/lfs/view/stable/)<br>The book for Linux From Scratch, but always linked to the latest stable one.
