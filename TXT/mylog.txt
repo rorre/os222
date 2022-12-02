@@ -82,3 +82,15 @@ ZCZC W08 15 L18 W08 quiz assignment
 ZCZC W08 100 L06 Reading about LFS
 ZCZC W08 100 L18 Set up guest for LFS
 ZCZC W08 120 L18 Doing LFS as part of assignment
+ZCZC W09 120 L02 Offline class tuesday
+ZCZC W09 120 L02 Online class thursday
+ZCZC W09 200 L19 Doing LFS again
+ZCZC W09 30 L19 Doing quizzes
+ZCZC W09 100 L64 Helping friends with LFS
+ZCZC W10 120 L02 Offline class tuesday
+ZCZC W10 120 L02 Online class thursday
+ZCZC W10 300 L20 Doing lFS before GCC
+ZCZC W10 15 L20 Doing quiz
+ZCZC W10 240 L20 Doing LFS again with GCC and end of chapter 8
+ZCZC W10 80 L64 Helping friends with LFS
+

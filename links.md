@@ -31,3 +31,5 @@ permalink: LINKS/
 13. [POSIX Threads](https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html)<br>Good writeup regarding POSIX thread (pthread) and overview.
 
 14. [LFS Stable Book](https://www.linuxfromscratch.org/lfs/view/stable/)<br>The book for Linux From Scratch, but always linked to the latest stable one.
+
+15. [BLFS Stable Book](https://www.linuxfromscratch.org/blfs/view/stable-systemd/)<br>Got hooked with LFS? Why not try out BLFS? It is basically an extension to LFS book for more in depth configuration.
